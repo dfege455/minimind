@@ -1,0 +1,5 @@
+/model/__pycache__
+/dataset
+/out
+.venv
+.vscode
